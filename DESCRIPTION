@@ -1,0 +1,13 @@
+Package: convert2pajek
+Type: Package
+Title: Converts files to pajek
+Version: 0.1.0
+Author: Matthew Smith
+Maintainer: Matthew Smith <matt_smith.90@hotmail.co.uk>
+Depends: R (>= 2.10)
+Description: This converts network files to a form that can be used by Pajek. It converts edgelist, matrices to Pajek .net files, and sttributes matrices to .clu or .vec files. 
+License: GPL-3
+Encoding: UTF-8
+Imports: igraph, dplyr, utils
+LazyData: true
+RoxygenNote: 6.0.1
