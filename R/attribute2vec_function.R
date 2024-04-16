@@ -1,7 +1,7 @@
 #' @title attribute2vec
-#' @description This function converts attribute from a dataframe to a .vec file. Dataframe has two columns for binary, and three for weighted (third column is weights)
+#' @description This function converts attribute from a dataframe to a .vec file. 
 #' @param df Attribute Dataframe
-#' @param attribute Attribute Name - Column name (character) in dataframe to write to .vec file
+#' @param attribute Attribute Name - Column name (character) in dataframe to write to .vec file. 
 #' @param NAME Name for .vec file
 #' @export
 #' @return .vec file
