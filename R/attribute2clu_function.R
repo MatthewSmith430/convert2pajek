@@ -1,5 +1,5 @@
 #' @title attribute2clu
-#' @description This function converts a attribute from a  dataframe to a .net files. Dataframe has two columns for binary, and three for weighted (third column is weights)
+#' @description This function converts a attribute from a  dataframe to a .clu files.
 #' @param df Attribute Dataframe
 #' @param attribute Attribute Name - Column name (character) in dataframe to write to .clu file
 #' @param NAME Name for .clu file
